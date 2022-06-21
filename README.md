@@ -2,9 +2,9 @@
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning "Test Automation with a Bootcamp that carried out by Patika.dev and sponsored by Enuygun.com" 
 <p align="center">
-<img height=75 src="https://github.com/ekremtk/githubfigures/blob/main/patika.png"/>
+<img height=75 src="https://github.com/ekremtk/githubfigures/blob/main/Folder/patika.png"/>
 <img height=75 src="https://cdn2.enuygun.com/media/lib/uploads/image/logo-kaynagi-33816.jpeg"/>
-<img height=75 src="https://www.nicepng.com/png/detail/857-8572248_test-cli-automation-testing-logo-png.png"/>
+<img height=75 src="https://github.com/ekremtk/githubfigures/blob/main/Folder/testauto.png"/>
 </p>
 
 - 💞️ I’m looking to collaborate on software
