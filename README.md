@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning "Test Automation with a Bootcamp that carried out by Patika.dev and sponsored by Enuygun.com" 
 <p align="center">
-<img height=75 src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png"/> 
+<img height=75 src="https://github.com/ekremtk/githubfigures/blob/main/patika.png"/>
 <img height=75 src="https://cdn2.enuygun.com/media/lib/uploads/image/logo-kaynagi-33816.jpeg"/>
 <img height=75 src="https://www.nicepng.com/png/detail/857-8572248_test-cli-automation-testing-logo-png.png"/>
 </p>
@@ -26,4 +26,8 @@
 <!---
 ekremtk/ekremtk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+--->
+
+<!---
+<img height=75 src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png"/> 
 --->
