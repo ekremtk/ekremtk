@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekremtk
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning "Test Automation with a Bootcamp that carried out by Patika.dev and sponsored by Enuygun.com" 
+- 🌱 I compleated "Test Automation with a Bootcamp that carried out by Patika.dev and sponsored by Enuygun.com" 
 <p align="center">
 <img height=75 src="https://github.com/ekremtk/githubfigures/blob/main/Folder/patika.png"/>
 <img height=75 src="https://cdn2.enuygun.com/media/lib/uploads/image/logo-kaynagi-33816.jpeg"/>
